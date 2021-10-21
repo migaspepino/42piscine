@@ -1,0 +1,6 @@
+Credentials cache: API:25309851-849B-4F79-93F0-B1FEA700AE31
+        Principal: mimarque@42LISBOA.COM
+
+  Issued                Expires               Principal
+Jun 29 09:25:46 2021  Jun 29 19:25:46 2021  krbtgt/42LISBOA.COM@42LISBOA.COM
+Jun 29 09:25:48 2021  Jun 29 19:25:46 2021  HTTP/student-storage.42lisboa.com@42LISBOA.COM
